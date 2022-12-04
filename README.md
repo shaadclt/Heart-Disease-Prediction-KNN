@@ -1,3 +1,3 @@
 # Heart Disease Prediction
 
-Heart Disease Prediction using KNearest Neighbors Classification Machine Learning model.
+Heart Disease Prediction using K-Nearest Neighbors Classification Machine Learning model.
